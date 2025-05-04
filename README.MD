@@ -12,7 +12,7 @@ An X11 window displays two hemispherical point clouds to monitor the progress of
 
 Prior to exiting, the simulated brain coral is saved as ready-to-run OpenSCAD code, which renders a design about 2 inches in diameter.  You can use that to create a 3D print of the brain coral.
 
-![Brain Coral rendered in OpenSCAD](./brain_coral_spherical_gsrd.scad.png)
+![Brain Coral rendered in OpenSCAD](./brain_coral_spherical_grsd.scad.png)
 
 The code has been tested with gcc on linux and with clang on MacOS.
 
